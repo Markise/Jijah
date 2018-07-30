@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: ba71477eb6176fa49a82de7c3cb24a9e
+timeCreated: 1498687332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jijah
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jijah
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 250
+        height: 405
+      alignment: 9
+      pivot: {x: 0.6990609, y: 0.0571783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.234772, y: 381.84277}
+        - {x: -13.765228, y: 381.84277}
+        - {x: -84.76523, y: 287.84277}
+        - {x: -174.76523, y: 256.84277}
+        - {x: -174.76523, y: 218.84279}
+        - {x: -62.76523, y: 125.84279}
+        - {x: -59.76523, y: 24.842789}
+        - {x: -28.765228, y: -23.157211}
+        - {x: 24.234772, y: -23.157211}
+        - {x: 67.23477, y: 39.84279}
+        - {x: 75.23477, y: 71.84279}
+        - {x: 75.23477, y: 276.84277}
+      - - {x: -99.76523, y: 107.84279}
+        - {x: -101.76523, y: 105.84279}
+        - {x: -101.76523, y: 103.84279}
+        - {x: -99.76523, y: 101.84279}
+        - {x: -96.76523, y: 101.84279}
+        - {x: -94.76523, y: 103.84279}
+        - {x: -94.76523, y: 105.84279}
+        - {x: -96.76523, y: 107.84279}
+      - - {x: -74.76523, y: 104.84279}
+        - {x: -71.76523, y: 105.84279}
+        - {x: -71.76523, y: 108.84279}
+        - {x: -74.76523, y: 109.84279}
+        - {x: -76.76523, y: 107.84279}
+      - - {x: 59.23477, y: 122.84279}
+        - {x: 62.23477, y: 123.84279}
+        - {x: 62.23477, y: 126.84279}
+        - {x: 59.23477, y: 127.84279}
+        - {x: 57.23477, y: 125.84279}
+      - - {x: -91.76523, y: 203.84279}
+        - {x: -93.76523, y: 201.84279}
+        - {x: -93.76523, y: 199.84279}
+        - {x: -91.76523, y: 197.84279}
+        - {x: -88.76523, y: 197.84279}
+        - {x: -86.76523, y: 199.84279}
+        - {x: -86.76523, y: 201.84279}
+        - {x: -88.76523, y: 203.84279}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 63f1b1aa4acc59a4c97ddbc5c9f65757
+timeCreated: 1501841002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FireTornado
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FireTornado
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 123
+        width: 364
+        height: 558
+      alignment: 9
+      pivot: {x: 0.523113, y: 0.40522853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.58685, y: -70.11752}
+        - {x: 114.58685, y: -64.11752}
+        - {x: 119.58685, y: -37.117523}
+        - {x: 128.58685, y: 30.882477}
+        - {x: 123.58685, y: 30.882477}
+        - {x: 119.58685, y: 29.882477}
+        - {x: 114.58685, y: 27.882477}
+        - {x: 114.58685, y: 20.882477}
+        - {x: 114.58685, y: 23.882477}
+        - {x: 115.58685, y: 34.882477}
+        - {x: 125.58685, y: 30.882477}
+        - {x: 128.58685, y: 32.882477}
+        - {x: 138.58685, y: 80.88248}
+        - {x: 142.58685, y: 112.88248}
+        - {x: 143.58685, y: 136.88248}
+        - {x: 139.58685, y: 138.88248}
+        - {x: 133.58685, y: 139.88248}
+        - {x: 126.58685, y: 139.88248}
+        - {x: 113.58685, y: 155.88248}
+        - {x: 137.58685, y: 162.88248}
+        - {x: 151.58685, y: 174.88248}
+        - {x: 159.58685, y: 211.88248}
+        - {x: 172.58685, y: 275.88248}
+        - {x: 173.58685, y: 290.88248}
+        - {x: 173.58685, y: 331.88248}
+        - {x: -179.41315, y: 331.88248}
+        - {x: -188.41315, y: 316.88248}
+        - {x: -188.41315, y: 278.88248}
+        - {x: -180.41315, y: 249.88248}
+        - {x: -171.41315, y: 186.88248}
+        - {x: -155.41315, y: 87.88248}
+        - {x: -129.41315, y: -64.11752}
+        - {x: -123.41315, y: -115.11752}
+        - {x: -100.41315, y: -142.11752}
+        - {x: -84.41315, y: -146.11752}
+        - {x: -82.41315, y: -158.11752}
+        - {x: -78.41315, y: -161.11752}
+        - {x: -75.41315, y: -161.11752}
+        - {x: -65.41315, y: -153.11752}
+        - {x: -69.41315, y: -143.11752}
+        - {x: -60.413147, y: -149.11752}
+        - {x: -71.41315, y: -161.11752}
+        - {x: -78.41315, y: -162.11752}
+        - {x: -80.41315, y: -160.11752}
+        - {x: -87.41315, y: -155.11752}
+        - {x: -87.41315, y: -150.11752}
+        - {x: -93.41315, y: -144.11752}
+        - {x: -100.41315, y: -145.11752}
+        - {x: -113.41315, y: -147.11752}
+        - {x: -114.41315, y: -183.11752}
+        - {x: -100.41315, y: -225.11752}
+        - {x: -96.41315, y: -226.11752}
+        - {x: 89.58685, y: -226.11752}
+        - {x: 102.58685, y: -162.11752}
+        - {x: 107.58685, y: -102.11752}
+        - {x: 95.58685, y: -102.11752}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

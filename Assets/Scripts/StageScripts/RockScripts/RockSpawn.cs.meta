@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa176647de423d74e894f99b2577514e
+timeCreated: 1501525675
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Rock: {fileID: 167318, guid: bf66a6570c45b374ca4a25f8d8a4ec6e, type: 2}
+  - BrkRock: {fileID: 188154, guid: dcde6971e9ca2724788b23b691501267, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

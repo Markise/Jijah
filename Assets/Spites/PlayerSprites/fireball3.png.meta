@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: 000350d9185641041b103ef48e80dc39
+timeCreated: 1499244026
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fireball
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fireball
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 205
+        width: 233
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5080597, y: 0.038681228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.6221008, y: 221.10332}
+        - {x: 5.622101, y: 210.10332}
+        - {x: 7.622101, y: 206.10332}
+        - {x: 19.6221, y: 205.10332}
+        - {x: 9.622101, y: 206.10332}
+        - {x: -0.37789917, y: 206.10332}
+        - {x: 3.6221008, y: 213.10332}
+        - {x: 0.62210083, y: 221.10332}
+        - {x: -34.3779, y: 221.10332}
+        - {x: -106.3779, y: 201.10332}
+        - {x: -118.3779, y: 158.10332}
+        - {x: -118.3779, y: 32.103317}
+        - {x: -86.3779, y: -1.8966827}
+        - {x: -69.3779, y: -8.896683}
+        - {x: 72.6221, y: -8.896683}
+        - {x: 114.6221, y: 36.103317}
+        - {x: 114.6221, y: 176.10332}
+        - {x: 52.6221, y: 221.10332}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
